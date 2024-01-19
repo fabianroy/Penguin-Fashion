@@ -1,2 +1,2 @@
 # Penguin Fashion Website
-A responsive shopping website for desktop and mobile. Made with HTML5 and Tailwind CSS. 
+A responsive fashion website for desktop and mobile. Made with HTML5 and Tailwind CSS. 
